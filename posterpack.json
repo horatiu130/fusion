@@ -1,20 +1,68 @@
 [
   {
     "id": "1",
-    "title": "HBO Max",
-    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/HBOMax.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/hbomax-wide-color.jpg"
-  },
-    {
-    "id": "2",
     "title": "Netflix",
     "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Netflix.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/netflixred-wide-color.jpg"
+  },
+  {
+    "id": "2",
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/HBOMax.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/hbomax-wide-color.jpg"
   },
   {
     "id": "3",
     "title": "Prime Video",
     "videoURL": "https://raw.githubcontent.com/horatiu130/fusion/main/PrimeVideo.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/primevideo-wide-color.jpg"
+  },
+    {
+    "id": "4",
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Crunchyroll.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/crunchyroll-wide-color.jpg"
+  },
+    {
+    "id": "5",
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/AppleTV.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/appletv-wide-color.jpg"
+  },
+    {
+    "id": "6",
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Disney+.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/disney-wide-color.jpg"
+  },
+    {
+    "id": "7",
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/hulu-wide-color.jpg"
+  },
+    {
+    "id": "8",
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Paramount+.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/paramount-wide-color.jpg"
+  },
+    {
+    "id": "9",
+    "title": "Discovery+",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Discovery+.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/discoveryplus-wide-color.jpg"
+  },
+    {
+    "id": "10",
+    "title": "Peacock",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Peacock.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/peacock-wide-color.jpg"
+  },
+    {
+    "id": "11",
+    "title": "Shudder",
+    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Shudder.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
   }
 ]
