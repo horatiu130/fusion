@@ -65,4 +65,40 @@
     "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/Shudder.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
   }
+    {
+    "id": "12",
+    "title": "2020s",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/decades/20s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/L5jnk6gT/20s.png"
+  },
+  {
+    "id": "13",
+    "title": "2010s",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/decades/10s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/br1s0NSR/10s.png"
+  },
+  {
+    "id": "14",
+    "title": "2000s",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/decades/00s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/RhwN1VJK/00s.png"
+  },
+  {
+    "id": "15",
+    "title": "1990s",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/decades/90s_compressed.mp4",
+    "backgroundURL": "https://i.postimg.cc/J7XDCKYH/90s.png"
+  },
+  {
+    "id": "16",
+    "title": "1980s",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/decades/80s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/qBKhHQDz/80s.png"
+  },
+  {
+    "id": "17",
+    "title": "1970s",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/decades/70s%20video.mp4",
+    "backgroundURL": "https://i.postimg.cc/VvXd9L0j/70s.png"
+  }
 ]
