@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "title": "ActionGenre",
-    "videoURL": "https://raw.githubusercontent.com/horatiu130/fusion/main/CEPLM.mp4",
-    "backgroundURL": "https://i.postimg.cc/6qyVvdtk/Action.png"
+    "title": "HBO Max",
+    "videoURL": "",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/hbomax-wide-color.jpg"
   },
     {
     "id": "2",
