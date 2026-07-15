@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Action",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/netflixred-wide-color.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Adventure",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/hbomax-wide-color.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Anime",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/primevideo-wide-color.jpg"
+  },
+    {
+    "id": "4",
+    "title": "Comedy",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/crunchyroll-wide-color.jpg"
+  },
+    {
+    "id": "5",
+    "title": "Documentary",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/appletv-wide-color.jpg"
+  },
+    {
+    "id": "6",
+    "title": "Drama",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/disney-wide-color.jpg"
+  },
+    {
+    "id": "7",
+    "title": "Family",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/hulu-wide-color.jpg"
+  },
+    {
+    "id": "8",
+    "title": "Fantasy",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/paramount-wide-color.jpg"
+  },
+    {
+    "id": "9",
+    "title": "Gangster",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/discoveryplus-wide-color.jpg"
+  },
+    {
+    "id": "10",
+    "title": "History",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/peacock-wide-color.jpg"
+  },
+    {
+    "id": "11",
+    "title": "Horror",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Paranormal",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Sci Fi",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Thriller",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
+  },
+  {
+    "id": "15",
+    "title": "War",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Western",
+    "backgroundURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/wide/rdnoni/color/shudder-wide-color.jpg"
+  }
+]
